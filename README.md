@@ -15,6 +15,6 @@
     <p>• Currently working on building more knowledge on tech used for e-commerce websites (MERN + Stripe)</p>
     <p>• Spends free time working on side projects, playing video games or spending time with the wife and cats.</p>
     <p>• Enjoys Tabletop games and building (physical) scenic terrain for various games</p>
-    <p>• I'm currently Working Part-time, on-site for Tacoma Mall Blvd-Coin And Stamp, but I am currently seeking other oppurtunities of employment, Full or Part-Time!</p>
+    <p>• I'm currently Working Part-time, on-site for <a href=https://tacomacoin.com>Tacoma Mall Blvd-Coin And Stamp</a>, but I am currently seeking other oppurtunities of employment, Full or Part-Time!</p>
 </div>
  
