@@ -1,6 +1,5 @@
 <main>
 <div align="center">
-<img name="im-sinzo" src="https://cdn.discordapp.com/attachments/1222280974503776346/1309274008637804698/Picsart_24-11-21_22-47-13-675.png?ex=6740fbf0&is=673faa70&hm=4763c6628bff7b217e9a0f40082d226e7dcd0fe9c00125e51b83a4b9eaa5828a&"  width="320" height="250">
 <img name="web-guy" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc294cXFzYnR4djc3NWpyYWhvYjN6am93djg1dWd4cjZxNXNkc3JjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.webp" width="300" height="220" frameBorder="0" class="giphy-embed"> 
 </div>
 </div>
@@ -11,7 +10,7 @@
   <h2> 
 		${\color{lightblue}Hello!!\ Thanks\ for\ visiting}$ 
 	</h2>
-	<img src="https://cdn.discordapp.com/attachments/1222280974503776346/1309290351508328528/Picsart_24-11-21_23-52-11-605.png?ex=67410b29&is=673fb9a9&hm=14e672ec7be5cf02d22076c3737f88723e61b3efd36748286d3d80ef5d7b031b&" height="100" > 
+
 </div>
 
 <h2>
